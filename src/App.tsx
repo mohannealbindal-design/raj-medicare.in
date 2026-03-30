@@ -486,7 +486,7 @@ export default function App() {
                     </div>
                     <div>
                       <h4 className="font-bold text-lg mb-1">Phone</h4>
-                      <a href={`tel:${RAJ_PHONE}`} className="text-gray-600 hover:text-medical-blue transition-colors">+91 80001 25170</a>
+                      <a href={`tel:${RAJ_PHONE}`} className="text-gray-600 hover:text-medical-blue transition-colors">+91  76220 14403</a>
                     </div>
                   </div>
                   <div className="flex gap-6">
