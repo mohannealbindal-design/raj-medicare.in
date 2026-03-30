@@ -1,0 +1,5 @@
+{
+  "name": "RAJ Medical Store Dahegam",
+  "description": "Buy generic & branded medicines at RAJ Medical Store, Dahegam. Located near Dr. Kothari Hospital on Ahmedabad-Modasa Highway. Open from 7:30 AM. Call +91 80001 25170",
+  "requestFramePermissions": ["geolocation"]
+}
