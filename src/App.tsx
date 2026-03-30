@@ -19,8 +19,8 @@ import {
 } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
 
-const RAJ_PHONE = "+918000125170";
-const WHATSAPP_LINK = "https://wa.me/918000125170";
+const RAJ_PHONE = "+91 76220 14403";
+const WHATSAPP_LINK = "https://wa.me/91 76220 14403";
 const MAP_EMBED_URL = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3667.143894451044!2d72.8103!3d23.1683!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e799899387998%3A0x0!2zMjPCsDEwJzA1LjkiTiA3MsKwNDgnMzcuMSJF!5e0!3m2!1sen!2sin!4v1711780000000!5m2!1sen!2sin";
 
 export default function App() {
@@ -358,7 +358,7 @@ export default function App() {
                 </div>
                 <div className="mt-12">
                   <p className="text-xs text-blue-200 uppercase tracking-widest mb-2">Direct Contact</p>
-                  <p className="text-xl font-bold">+91 80001 25170</p>
+                  <p className="text-xl font-bold">+91 76220 14403</p>
                 </div>
               </div>
               <div className="md:w-3/5 p-10">
